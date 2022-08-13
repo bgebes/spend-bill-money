@@ -1,0 +1,8 @@
+div.product {
+  background-color: white;
+}
+
+div.product > img {
+  max-width: 100%;
+  height: 120px;
+}

@@ -1,0 +1,9 @@
+div.receipt > div[class^='receiptItems'] {
+  width: 20em;
+}
+
+div.receipt > div[class^='d-flex'] {
+  width: 20em;
+}
+
+

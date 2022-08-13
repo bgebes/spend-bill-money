@@ -1,0 +1,14 @@
+div.buttonGroup > button.btn1 {
+  background-color: #f1f2f6;
+  border: 0;
+}
+
+div.buttonGroup > button.btn2 {
+  background-color: #24c486;
+  color: white;
+  border: 0;
+}
+
+div.buttonGroup > input {
+  width: 5em;
+}
